@@ -1,1 +1,2 @@
-hello git merged
+hello git -a
+
